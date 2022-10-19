@@ -1,0 +1,8 @@
+C:\Curso_c#\POO_DFILITTO\RacingGame\RacingGame\bin\Debug\RacingGame.exe.config
+C:\Curso_c#\POO_DFILITTO\RacingGame\RacingGame\bin\Debug\RacingGame.exe
+C:\Curso_c#\POO_DFILITTO\RacingGame\RacingGame\bin\Debug\RacingGame.pdb
+C:\Curso_c#\POO_DFILITTO\RacingGame\RacingGame\obj\Debug\RacingGame.csproj.AssemblyReference.cache
+C:\Curso_c#\POO_DFILITTO\RacingGame\RacingGame\obj\Debug\RacingGame.csproj.SuggestedBindingRedirects.cache
+C:\Curso_c#\POO_DFILITTO\RacingGame\RacingGame\obj\Debug\RacingGame.csproj.CoreCompileInputs.cache
+C:\Curso_c#\POO_DFILITTO\RacingGame\RacingGame\obj\Debug\RacingGame.exe
+C:\Curso_c#\POO_DFILITTO\RacingGame\RacingGame\obj\Debug\RacingGame.pdb
